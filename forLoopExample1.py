@@ -15,9 +15,10 @@ for i in range(10): 0 1 2  3 4 5 6 7 8 9
 
 range(start,end,step)
 range(0,10,1)
-
-'''
 for i in range(10):
     print("welcome: ",i)
 
-
+'''
+for i in range(1,25,2):
+    print("welcome",i)
+    
